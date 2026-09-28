@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EF7F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+ErrorAxiom;BCA+Student+%7C+Future+Software+Engineer;Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Leveling+up+next%3A+C%2B%2B" alt="Typing SVG" />
@@ -63,4 +62,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=erroraxiom&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
-```
